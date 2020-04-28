@@ -136,6 +136,13 @@ public class RegisterPage {
 	    	return new FileUploadPage(driver);
 
 	   }
+	   
+	   public DownloadFilePage clickDownload() {
+		   driver.findElement(By.xpath("//a[contains(text(),'More')]")).click();
+		   driver.findElement(By.xpath("//a[contains(text(),'File Download')]")).click();
+	    	return new DownloadFilePage(driver);
+
+	   }
 	
 	
 	
