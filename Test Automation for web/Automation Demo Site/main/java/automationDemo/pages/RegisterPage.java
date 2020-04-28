@@ -129,6 +129,13 @@ public class RegisterPage {
 	    	return new AlertsPage(driver);
 	    	
 		}
+	   
+	   public FileUploadPage clickUpload() {
+		   driver.findElement(By.xpath("//a[contains(text(),'More')]")).click();
+		   driver.findElement(By.xpath("//a[contains(text(),'File Upload')]")).click();
+	    	return new FileUploadPage(driver);
+
+	   }
 	
 	
 	
