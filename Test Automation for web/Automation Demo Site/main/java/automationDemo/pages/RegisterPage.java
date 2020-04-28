@@ -123,6 +123,12 @@ public class RegisterPage {
 		driver.findElement(By.id("submitbtn")).click();
 		
 	}
+	   public AlertsPage clickAlerts() {
+	    	driver.findElement(By.xpath("//a[contains(text(),'SwitchTo')]")).click();
+	    	driver.findElement(By.xpath("//a[contains(text(),'Alerts')]")).click();
+	    	return new AlertsPage(driver);
+	    	
+		}
 	
 	
 	
