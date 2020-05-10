@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="Lodge.Tests.Config" />
+			<class name="Lodge.Tests.FirstPageTest"/>
+			<class name="Lodge.Tests.SignUpPageTest"/>
+			<class name="Lodge.Tests.SignInPageTest"/>
+			<class name="Lodge.Tests.HomePageTest"/>
+			<class name="Lodge.Tests.loginTest"/>
+			<class name="Lodge.Tests.ExplorePageTest"/>
+			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
