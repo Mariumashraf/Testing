@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-10T10:17:01Z" name="Zid" finished-at="2020-06-10T10:20:22Z" duration-ms="201486">
+    <groups>
+    </groups>
+    <test started-at="2020-06-10T10:17:01Z" name="Test" finished-at="2020-06-10T10:20:22Z" duration-ms="201486">
+      <class name="registrationTestCases.RegistrationPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:17:01Z" name="setUp" finished-at="2020-06-10T12:17:03Z" duration-ms="2814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:17:04Z" name="goHome" finished-at="2020-06-10T12:17:08Z" duration-ms="4016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.validRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="validRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:17:08Z" name="validRegisterTest" data-provider="validData" finished-at="2020-06-10T12:17:32Z" duration-ms="23709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashrafalihass]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[256587521]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ashrafhakja@yahoo.cm]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[nhuh#5122d]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[95Noteookk]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[äæÊ Èä ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:17:32Z" name="record" finished-at="2020-06-10T12:17:35Z" duration-ms="3189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.validRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=validRegisterTest status=SUCCESS method=RegistrationPageTest.validRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:17:35Z" name="goHome" finished-at="2020-06-10T12:17:36Z" duration-ms="1037" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.validRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="validRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:17:36Z" name="validRegisterTest" data-provider="validData" finished-at="2020-06-10T12:18:00Z" duration-ms="23889" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MARIUMAFhassan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[526397895]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[maokre@gmail.ner]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mshsjhd23%4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[RAYAA211]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ÑÇÇíÉÉ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:00Z" name="record" finished-at="2020-06-10T12:18:03Z" duration-ms="2819" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.validRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=validRegisterTest status=SUCCESS method=RegistrationPageTest.validRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:03Z" name="goHome" finished-at="2020-06-10T12:18:04Z" duration-ms="958" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.validRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="validRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:04Z" name="validRegisterTest" data-provider="validData" finished-at="2020-06-10T12:18:28Z" duration-ms="24521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yassin Ashrafhass]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[897445897]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[smsmjk@cau.edu.eg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[yaskj#52532]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[LarocheFrance88]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[áÇÇÑææÔ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:28Z" name="record" finished-at="2020-06-10T12:18:31Z" duration-ms="2724" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.validRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=validRegisterTest status=SUCCESS method=RegistrationPageTest.validRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:31Z" name="goHome" finished-at="2020-06-10T12:18:32Z" duration-ms="763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:32Z" name="inValidRegisterTest" data-provider="invalidData" finished-at="2020-06-10T12:18:55Z" duration-ms="23498" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456321459]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mdndj@hdj.dd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dhgdg#1213]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ndjjhdjkhd]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]ÊíÊíÇíÊÇí]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:55Z" name="record" finished-at="2020-06-10T12:18:58Z" duration-ms="3059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=inValidRegisterTest status=SUCCESS method=RegistrationPageTest.inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:58Z" name="goHome" finished-at="2020-06-10T12:18:59Z" duration-ms="1314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:18:59Z" name="inValidRegisterTest" data-provider="invalidData" finished-at="2020-06-10T12:19:23Z" duration-ms="23768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhgsddgjdg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[58]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hdsgd@hhd.shd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[shgs$1fd2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dsbjkdhd]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[íÊáíäíá]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:19:23Z" name="record" finished-at="2020-06-10T12:19:26Z" duration-ms="3136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=inValidRegisterTest status=SUCCESS method=RegistrationPageTest.inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:19:26Z" name="goHome" finished-at="2020-06-10T12:19:27Z" duration-ms="1099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:19:27Z" name="inValidRegisterTest" data-provider="invalidData" finished-at="2020-06-10T12:19:51Z" duration-ms="23314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhgydd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[253614897]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[shsgs@s]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hsgsgdu$52]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[gvhfhfhd]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ÈÇÈÇÈ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:19:51Z" name="record" finished-at="2020-06-10T12:19:54Z" duration-ms="3134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=inValidRegisterTest status=SUCCESS method=RegistrationPageTest.inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="goHome(java.lang.String, java.lang.reflect.Method)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:19:54Z" name="goHome" finished-at="2020-06-10T12:19:55Z" duration-ms="717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://zid.sa/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:19:55Z" name="inValidRegisterTest" data-provider="invalidData" finished-at="2020-06-10T12:20:18Z" duration-ms="23194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gfhfhfhf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[256598741]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sgsgsj@yahoo.dhd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12s]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sshdjdgjg]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ÈÊáÈÊáÈÊí]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inValidRegisterTest -->
+        <test-method is-config="true" signature="record(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:20:18Z" name="record" finished-at="2020-06-10T12:20:21Z" duration-ms="3084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void registrationTestCases.RegistrationPageTest.inValidRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=inValidRegisterTest status=SUCCESS method=RegistrationPageTest.inValidRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- record -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:registrationTestCases.RegistrationPageTest@7ce026d3]" started-at="2020-06-10T12:20:21Z" name="tearDown" finished-at="2020-06-10T12:20:22Z" duration-ms="1126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- registrationTestCases.RegistrationPageTest -->
+      <class name="registrationTestCases.Config">
+        <test-method is-config="true" signature="start()[pri:0, instance:registrationTestCases.Config@496bc455]" started-at="2020-06-10T12:17:00Z" name="start" finished-at="2020-06-10T12:17:01Z" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="end()[pri:0, instance:registrationTestCases.Config@496bc455]" started-at="2020-06-10T12:20:22Z" name="end" finished-at="2020-06-10T12:20:22Z" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- registrationTestCases.Config -->
+    </test> <!-- Test -->
+  </suite> <!-- Zid -->
+</testng-results>

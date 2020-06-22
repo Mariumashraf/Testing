@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Zid]">
+  <parameter name="URL" value="https://zid.sa/"/>
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="registrationTestCases.RegistrationPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="goHome"/>
+          <include name="record"/>
+          <include name="setUp"/>
+          <include name="validRegisterTest" invocation-numbers="0 1 2 3"/>
+        </methods>
+      </class> <!-- registrationTestCases.RegistrationPageTest -->
+      <class name="registrationTestCases.Config">
+        <methods>
+          <include name="start"/>
+          <include name="end"/>
+        </methods>
+      </class> <!-- registrationTestCases.Config -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Zid] -->
