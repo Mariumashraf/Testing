@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-11T21:08:39Z" name="Default suite" finished-at="2020-06-11T21:09:26Z" duration-ms="46779">
+    <groups>
+    </groups>
+    <test started-at="2020-06-11T21:08:39Z" name="Default test" finished-at="2020-06-11T21:09:26Z" duration-ms="46779">
+      <class name="camelan.tests.SearchPageTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36]" started-at="2020-06-11T23:08:39Z" name="setup" finished-at="2020-06-11T23:08:45Z" duration-ms="5762" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void camelan.tests.SearchPageTest.SearchAd(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchAd(java.lang.reflect.Method)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36]" started-at="2020-06-11T23:08:45Z" name="SearchAd" finished-at="2020-06-11T23:08:53Z" duration-ms="7976" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void camelan.tests.SearchPageTest.SearchAd(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchAd -->
+        <test-method is-config="true" signature="afterTest(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36]" started-at="2020-06-11T23:08:53Z" name="afterTest" finished-at="2020-06-11T23:09:03Z" duration-ms="10424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void camelan.tests.SearchPageTest.SearchAd(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=SearchAd status=SUCCESS method=SearchPageTest.SearchAd(java.lang.reflect.Method)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36]" started-at="2020-06-11T23:09:03Z" name="setup" finished-at="2020-06-11T23:09:09Z" duration-ms="5389" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void camelan.tests.SearchPageTest.clickOnAd(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnAd(java.lang.reflect.Method)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36]" started-at="2020-06-11T23:09:09Z" name="clickOnAd" finished-at="2020-06-11T23:09:15Z" duration-ms="6557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void camelan.tests.SearchPageTest.clickOnAd(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAd -->
+        <test-method is-config="true" signature="afterTest(java.lang.reflect.Method, org.testng.ITestResult)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36]" started-at="2020-06-11T23:09:15Z" name="afterTest" finished-at="2020-06-11T23:09:26Z" duration-ms="10639" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void camelan.tests.SearchPageTest.clickOnAd(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=clickOnAd status=SUCCESS method=SearchPageTest.clickOnAd(java.lang.reflect.Method)[pri:0, instance:camelan.tests.SearchPageTest@74d1dc36] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- camelan.tests.SearchPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
